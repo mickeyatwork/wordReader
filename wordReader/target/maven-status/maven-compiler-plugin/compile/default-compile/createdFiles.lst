@@ -1,0 +1,6 @@
+com/wordreader/models/Calculations.class
+com/wordreader/utils/WordRules.class
+com/wordreader/WordReaderApplication.class
+com/wordreader/controllers/FileReaderController.class
+com/wordreader/controllers/CalculationController.class
+com/wordreader/ServletInitializer.class
